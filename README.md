@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey There 👋, I'm José Matoso
 
 <!--
 **JMatoso/JMatoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 𝗦𝘁𝗮𝘁𝘀
+## My GitHub 𝗦𝘁𝗮𝘁𝘀
 
-![jmatoso's github stats](https://github-readme-stats.vercel.app/api?username=jmatoso&show_icons=true)
+<p width="100%"> ![jmatoso's github stats](https://github-readme-stats.vercel.app/api?username=jmatoso&show_icons=true) </p>
