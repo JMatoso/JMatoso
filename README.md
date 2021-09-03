@@ -17,5 +17,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 ## My GitHub 𝗦𝘁𝗮𝘁
-<p> <img src="https://github-readme-stats.vercel.app/api?username=jmatoso&show_icons=true" alt="JMatoso" />
-  <img height="195" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmatoso&layout=compact&langs_count=7&show_icons=true"/>
+<div> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmatoso&show_icons=true" alt="JMatoso" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmatoso&layout=compact&langs_count=7&show_icons=true"/>
+ </div>
