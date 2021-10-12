@@ -19,6 +19,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ## My GitHub 𝗦𝘁𝗮𝘁
 <div> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmatoso&show_icons=true" alt="JMatoso" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmatoso&show_icons=truei&layout=compact&langs_count=7&"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=jmatoso&show_icons=true" alt="JMatoso" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmatoso&show_icons=truei&layout=compact&langs_count=7&"/>
 </div>
