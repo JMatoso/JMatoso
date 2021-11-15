@@ -20,5 +20,7 @@ and knowledge sharing happened through open-source.
 
 ## My GitHub 𝗦𝘁𝗮𝘁
 <div align="center" style="display: inline_block">
-  <img height="180em" width="500px" src="https://github-readme-stats.vercel.app/api?username=jmatoso&show_icons=true&include_all_commits=true&count_private=true" alt="JMatoso" />   <img height="180em" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmatoso&show_icons=truei&layout=compact&langs_count=7&"/>
+  <a href="https://github.com/jmatoso">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmatoso&show_icons=true&include_all_commits=true&count_private=true" alt="JMatoso" />   
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmatoso&show_icons=truei&layout=compact&langs_count=7&"/>
 </div>
