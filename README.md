@@ -1,8 +1,8 @@
 ### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-> I'm <b>José</b>, a back-end developer, passionate about tech, always open to new challenges and always ready to learn. <br>
+I'm <b>José</b>, a back-end developer, passionate about tech, always open to new challenges and always ready to learn. <br>
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration 
+> I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration 
 and knowledge sharing happened through open-source.
 
 <a href = "mailto:jos3matosoj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
