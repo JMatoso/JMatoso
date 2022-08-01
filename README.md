@@ -1,6 +1,12 @@
 ### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
 I'm <b>José</b>, a back-end developer, passionate about tech, always open to new challenges and always ready to learn. I am also an open-source enthusiast and maintainer. <br>
+
+[![José Matoso](https://img.shields.io/badge/JOSÉ-MATOSO-<COLOR>.svg)](https://shields.io/) 
+![Profile Views](https://komarev.com/ghpvc/?username=jmatoso&color=green)  
+![Followers](https://img.shields.io/github/followers/jmatoso) 
+![Stars](https://img.shields.io/github/stars/jmatoso?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) 
+
 > I learned a lot from the open-source community and I love how collaboration 
 and knowledge sharing happened through open-source.
 
