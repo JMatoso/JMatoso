@@ -2,8 +2,6 @@
 
 I'm <b>José</b>, a back-end developer, passionate about tech, always open to new challenges and always ready to learn. I am also an open-source enthusiast and maintainer. <br>
 
-[![José Matoso](https://img.shields.io/badge/José-Matoso-<COLOR>.svg)](https://shields.io/) ![Profile Views](https://komarev.com/ghpvc/?username=jmatoso&color=green) ![Followers](https://img.shields.io/github/followers/jmatoso) ![Stars](https://img.shields.io/github/stars/jmatoso?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) 
-
 > I learned a lot from the open-source community and I love how collaboration 
 and knowledge sharing happened through open-source.
 
@@ -11,6 +9,8 @@ and knowledge sharing happened through open-source.
 
 <a href = "mailto:jos3matosoj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/josematoso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+[![José Matoso](https://img.shields.io/badge/José-Matoso-<COLOR>.svg)](https://shields.io/) ![Profile Views](https://komarev.com/ghpvc/?username=jmatoso&color=green) ![Followers](https://img.shields.io/github/followers/jmatoso) ![Stars](https://img.shields.io/github/stars/jmatoso?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) 
 
 ### Languages and Tools 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
