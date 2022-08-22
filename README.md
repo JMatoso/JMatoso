@@ -1,4 +1,4 @@
-### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> 
 
 I'm <b>José</b>, a back-end developer, passionate about tech, always open to new challenges and always ready to learn. I am also an open-source enthusiast and maintainer. <br> 
  
