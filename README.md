@@ -1,12 +1,12 @@
 ### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> 
-  
+
 I'm <b>José</b>, a back-end developer, passionate about tech, always open to new challenges and always ready to learn. I am also an open-source enthusiast and maintainer. <br> 
- 
+
 > I learned a lot from the open-source community and I love how collaboration 
 and knowledge sharing happened through open-source.
 
 <img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
- 
+
 <a href = "mailto:jos3matosoj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/josematoso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
