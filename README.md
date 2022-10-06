@@ -4,7 +4,7 @@ I'm <b>Joaquim</b> A. K. A <b>José Matoso</b>, a back-end developer, passionate
 
 > I learned a lot from the open-source community and I love how collaboration 
 and knowledge sharing happened through open-source.
- 
+
 <img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
 
 <a href = "mailto:jos3matosoj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
