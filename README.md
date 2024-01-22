@@ -1,12 +1,10 @@
 ### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
-I'm <b>Joaquim</b> A. K. A <b>José Matoso</b>, a back-end developer, passionate about tech, always open to new challenges and always ready to learn. I am also an open-source enthusiast and maintainer. <br>
- 
-> I learned a lot from the open-source community and I love how collaboration 
-and knowledge sharing happened through open-source.
+I'm <b>José Matoso</b>, a back-end developer passionate about tech. <br>
 
-[![Send an Email to Joaquim José](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaquim@matoso.me)
-[![Joaquim José's LinkedIn Profile](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquimmatoso)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaquimjose@duck.com)](mailto:joaquimjose@duck.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaquimmatoso)](https://www.linkedin.com/in/joaquimmatoso)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/joaquimmatoso)](https://twitter.com/joaquimmatoso)
 
 [![José Matoso](https://img.shields.io/badge/José-Matoso-<COLOR>.svg)](https://shields.io/) 
 ![Profile Views](https://komarev.com/ghpvc/?username=jmatoso&color=green) 
@@ -21,11 +19,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for new challenges...
 - 💬 Ask me about C#, .NET Core and back-end...
 - 📫 How to reach me: check my LinkedIn or send me an email...
-- 😄 Pronouns: he/his...
-- ⚡ Fun fact: No bugs today...
+- 😄 Pronouns: he/him/his...
+- ⚡ Fun fact: bugs are not mistakes; they're unexpected features waiting to be understood...
 
-
-### Tools 
+#### Tools 
 <i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></i>
 <i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></i>
 <i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></i>
@@ -45,10 +42,10 @@ Here are some ideas to get you started:
 <i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"></i>
 <i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></i>
 
-### Stats
-<div align="center" style="display: inline_block">
-  <a href="https://github.com/jmatoso">
+#### My Stats
+<div align="left" style="display: flex; justify-content: space-around;">
+  <i>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmatoso&show_icons=true&include_all_commits=true&count_private=true" alt="JMatoso" />   
     <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmatoso&show_icons=truei&layout=compact&langs_count=7"/>
-  </a>
+  </i>
 </div> 
