@@ -1,6 +1,6 @@
 ### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
-I'm <b>José Matoso</b>, a software developer passionate about tech. <br>
+I'm <b>José Matoso</b>, a software engineer passionate about tech. <br>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaquimjose@duck.com)](mailto:joaquimjose@duck.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaquimmatoso)](https://www.linkedin.com/in/joaquimmatoso)
