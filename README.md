@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></i>
 <i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"></i>
 <i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></i>
-<i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></i>
+<i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress.svg"></i>
 
 <!--
 #### My Stats
